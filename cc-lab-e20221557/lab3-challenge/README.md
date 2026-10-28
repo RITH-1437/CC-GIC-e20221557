@@ -55,4 +55,4 @@ My policy is in [bucket-policy.json](bucket-policy.json). The line that limits p
 
 ## Clean up
 
-- [ ] All object versions deleted and the bucket deleted.
+- [x] All object versions deleted and the bucket deleted.
