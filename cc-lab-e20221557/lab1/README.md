@@ -90,5 +90,5 @@ curl -s -o /dev/null -w "HTTP Status: %{http_code}\n" http://localhost
 
 ## Clean up
 
-- [ ] Part 1.1: instance terminated, key pair and security group deleted.
-- [ ] Part 1.2: instance terminated, security group (and key pair, if any) deleted.
+- [x] Part 1.1: instance terminated, key pair and security group deleted.
+- [x] Part 1.2: instance terminated, security group (and key pair, if any) deleted.
